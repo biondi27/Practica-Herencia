@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\Hamshop\Hamshop\bin\Debug\net7.0\Hamshop.exe
+C:\Users\loren\source\repos\Hamshop\Hamshop\bin\Debug\net7.0\Hamshop.deps.json
+C:\Users\loren\source\repos\Hamshop\Hamshop\bin\Debug\net7.0\Hamshop.runtimeconfig.json
+C:\Users\loren\source\repos\Hamshop\Hamshop\bin\Debug\net7.0\Hamshop.dll
+C:\Users\loren\source\repos\Hamshop\Hamshop\bin\Debug\net7.0\Hamshop.pdb
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.AssemblyInfo.cs
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.dll
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\refint\Hamshop.dll
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.pdb
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\Hamshop.genruntimeconfig.cache
+C:\Users\loren\source\repos\Hamshop\Hamshop\obj\Debug\net7.0\ref\Hamshop.dll
